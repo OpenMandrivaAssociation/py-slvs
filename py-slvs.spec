@@ -7,11 +7,11 @@ URL:		https://pypi.org/project/py_slvs/
 License:	Gnu General Public License 3.0
 Group:		Development/Python
 BuildRequires:	python
+BuildRequires:	python-devel
 BuildRequires:	cmake
 BuildRequires:	python-scikit-build
 BuildRequires:	swig
 BuildSystem:	python
-#BuildArch:	noarch
 
 %description
 Python binding of SOLVESPACE geometry constraint solver
