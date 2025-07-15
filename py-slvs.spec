@@ -9,6 +9,7 @@ Group:		Development/Python
 BuildRequires:	python
 BuildRequires:	cmake
 BuildRequires:	python-scikit-build
+BuildRequires:	swig
 BuildSystem:	python
 #BuildArch:	noarch
 
