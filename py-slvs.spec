@@ -1,3 +1,5 @@
+%define  _empty_manifest_terminate_build 0   
+
 Name:		py_slvs
 Version:	1.0.6
 Release:	1
